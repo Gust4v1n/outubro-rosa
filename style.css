@@ -1,0 +1,121 @@
+@import url('https://fonts.cdnfonts.com/css/marko-one');
+@import url('https://fonts.cdnfonts.com/css/inter');
+
+body{
+    background-color: #BA2F62;
+    margin: unset;
+    margin-top: 150px;
+}
+
+.divsinistradotopo{
+    background-color: white;
+    height: 1000px;
+    width: 100%;
+}
+
+.textoteste{
+    font-family: 'Marko One', sans-serif;
+    font-size: 64px;
+}
+
+.divsinistra{
+    display: flex;
+    margin-top: 50px;
+    justify-content: center;
+    
+}
+
+.divsinistra2{
+    position: relative;
+    justify-content: center;
+}
+.imagemteste{
+    position:absolute;
+    height: 60%;
+    transform: rotate(30deg);
+    right: -60px;
+}
+
+.divtext{
+    background-color: transparent;
+    width: 1050px;
+    height: 30px;
+}
+.divtext2{
+    margin-top: -30px;
+    display: flex;
+    justify-content: center;
+}
+
+.fonth2{
+    font-family: 'Marko One', sans-serif;
+    font-size: 28px;
+}
+
+.divbuttons{
+    display: flex;
+    margin-top: 350px;
+    background-color: #BA2F62;
+    height: 70px;
+    width: 290px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.divtest{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.fontbuttom{
+    font-family: 'Marko One', sans-serif;
+    font-size: 28px;
+}
+
+.divcampanha{
+    margin-top: 500px;
+    background-color: #BA2F62;
+    height: 1000px;
+    width: 100%;
+}
+
+.texto2h1{
+    font-family: 'Marko One', sans-serif;
+    font-size: 50px;
+}
+
+.divtexto2{
+    padding-left: 300px;
+}
+
+.imgsinistraparte2{
+
+}
+
+.divimgsinistraparte2{
+    padding-left: 300px;
+}
+
+.painelparte2{
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    height: 500px;
+    width: 1000px;
+    background-color: #9D2E57;
+    border-radius: 16px;
+    margin-top: -30px;
+}
+
+.divprajuntartudu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.textoseila123{
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    text-align: center;
+}
