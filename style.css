@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Marko+One&display=swap');
+
+body{
+    display: flex;
+    margin: unset;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.topo{
+   background:  #BA2F62;
+    color: white;
+    padding: 3rem 0;
+    text-align: center;
+}
+
+.container{
+    height: 30px;
+    width: 30px;
+}
+
+.componentesmeio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imglaco{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+    transform: rotate(30deg);
+    top: 10px;
+    right: -50px;
+}
+
+.h1principal{
+    font-family: 'Marko One', cursive;
+    font-size: 64px;
+}
+
+.centralizartituloprincipal{
+    display: flex;
+    justify-content: center;
+
+}
+
+.divprajuntartituloelaco{
+    position: relative;
+}
+
+.TextoPrincipalSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -50px;
+}
+
+.divpracentralizar{
+    display: flex;
+    width: 1300px;
+    height: 100%;
+    text-wrap: wrap;
+    font-family: 'Marko One', cursive;
+    font-size: 22px;
+}
+
+.ButtonsSection{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+}
+
+.Button{
+    margin-top: 40px;
+    height: 85px;
+    width: 254px;
+    cursor: pointer;
+    border-radius: 16px;
+    background: #BA2F62;
+}
