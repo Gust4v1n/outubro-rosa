@@ -1,0 +1,75 @@
+@import url('https://fonts.cdnfonts.com/css/marko-one');
+@import url('https://fonts.cdnfonts.com/css/inter');
+
+body{
+    background-color: #BA2F62;
+    margin: unset;
+    justify-content: center; 
+    align-items: center; 
+}
+
+
+.leftarrowimg{
+    display: flex;
+    height: 70px;
+    width: 70px;
+    margin-left: 30px;
+}
+
+.fontTituloRiscos{
+    display: flex;
+    font-family: 'Marko One', sans-serif;
+    font-size: 50px;
+}
+
+.divprincipalriscos{
+    display: flex;
+    justify-content: center;
+}
+
+.imgRaiox{
+    width: 40%;
+    margin-left: 300px;
+    transition: 0.2s ease-in-out;
+}
+
+.imgRaiox:hover{
+    transform: scale(1.05);
+}
+
+.divInanamenteInsanaHiperMegaInsana{
+    display: flex;
+    margin-left: 30px;
+    flex-direction: column;
+}
+
+
+.divTextoRiscos{
+    display: flex;
+    background-color: #9D2E57;
+    border-radius: 16px;
+    height: 600px;
+    width: 700px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.divtest123{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 300px;
+    margin-top: 150px;
+    flex-wrap: wrap;
+}
+
+.fontTextoRiscos{
+    display: flex;
+    font-family: 'Marko One', sans-serif;
+    font-size: 28px;
+    text-align: justify;
+}
+
+.asjd9asdad{
+    padding: 5px;
+}
